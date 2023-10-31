@@ -1,0 +1,121 @@
+.profile{
+    padding: 2rem 1rem;
+    background-color: #272D35;
+    border-radius: 15px;
+    width: 100%;
+    height: auto;
+}
+.userimage img{
+   width: 65px;
+   height: 65px;
+   border: 1px solid #B983FF;
+   padding: 2px;
+   border-radius: 50%;
+}
+.userimage{
+    margin-left: auto;
+    margin-right: auto;
+}
+.user{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.user h2{
+    color: white;
+    margin: 7px 0px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.user p{
+    color: white;
+    font-size: 12px;
+}
+.userinfo{
+    margin-bottom: 1rem;
+
+}
+.userinfo ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+}
+.userinfo ul li{
+    background-color: #6F4CA4;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 45px;
+
+}
+.userinfo ul li a i{
+    color: white;
+    font-size: 17px;
+}
+.userabout h2{
+    font-size: 17px;
+    color: white;
+    margin-bottom: 7px;
+}
+.userabout p{
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 25px;
+    margin-bottom: 1rem;
+}
+.otheruser ul li a{
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    text-decoration: none;
+}
+.otheruserimg img{
+    margin-right: 12px;
+    width: 50px;
+    height: 50px;
+   border: 1px solid #B983FF;
+   padding: 2px;
+   border-radius: 50%;
+
+}
+.otheruser ul {
+    padding: 0;
+    margin: 0;
+}
+.otheruserinfo h2{
+    font-size: 14px;
+    color: #FFFFFF;
+    
+}
+.otheruserinfo p{
+    font-size: 12px;
+    color: #FFFFFF;
+}
+.sendmoney{
+    width: 100%;
+    left: 50%;
+    margin-top: 1rem;
+    background-color: #272D35;
+    padding: 1.5rem 1rem;
+    border-radius: 10px;
+}
+.sendmoney h3{
+    font-size: 14px;
+    color: white;
+}
+.sendmoney h2{
+    font-size: 24px;
+    text-align: right;
+    color: white;
+}
+.money a{
+   text-decoration: none;
+   color: white;
+}
+.money a i {
+    color: #FF98BF;
+}

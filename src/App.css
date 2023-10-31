@@ -1,0 +1,18 @@
+h1,h2,h3,h4,h5,h6{
+font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Poppins', sans-serif; 
+}
+a{
+    text-decoration: none;
+    font-family:'Poppins', sans-serif; 
+}
+input{
+    font-family:'Poppins', sans-serif;  
+}
+@media screen and (min-width: 700px) {
+    .dashboard{
+        padding: 1rem 1rem !important;
+    }
+  }
